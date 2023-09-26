@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document  */
+.logo img{ width: 80px;
+    height:60px}
+.box{ height: 120px;
+    background: #6118AA}
+main{ height: 2000px}
+footer{
+    height: 250px;
+    background:#6118AA}
+footer img{ width:60px;
+    height:40px;
+    margin:50px 50px 0px 50px}
+.banner{ padding:100px 0px}
+.aside{ background: #6118AA;
+    width:100%;
+    height:300px;
+    margin:0}
+.box-game{ width:100%;
+    height:150px;
+    background: #6118AA;
+    border-radius: 5px;}
+.box-game img{ width:90%;
+    height: 90%;
+    align-items: center;
+    border-radius:5px}
+.team img{ width:80%;
+        height: 60%;
+        align-items: center;
+        border-radius:50%}
+
+    
+
+
+
+
+
